@@ -1,4 +1,4 @@
 # rebase_test
 
-inital commit
+revert commit
 picked feature

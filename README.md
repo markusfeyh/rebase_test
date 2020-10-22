@@ -1,3 +1,3 @@
 # rebase_test
 
-inital commit
+new feature
